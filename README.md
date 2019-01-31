@@ -4,11 +4,11 @@ WAX Express Trade realtime feed api
 # Description
 WAX real time feed api application has the purpose of provide real time events related to case openings that happens in the WAX blockchain.
 
-##How to use it?
+## How to use it?
 
 A socket.io server is accessible from `https://realtimefeed-api.wax.io`, you can use any socket.io client to connect to it and start consuming events.
 
-##Example using javascript
+## Example using javascript
 
 Copy the files inside `example` folder and run the following commands
 
@@ -17,9 +17,9 @@ Copy the files inside `example` folder and run the following commands
 
 This will connect to the server and log to the console `case-opened` events.
 
-##Events
+## Events
 
-###Case opened
+### Case opened
 
 Subscribe your socket client to `case-opened` 
 
