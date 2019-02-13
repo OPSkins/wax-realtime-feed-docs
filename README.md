@@ -1,8 +1,8 @@
-WAX Express Trade realtime feed api
+WAX Realtime Feed API
 ============================================
 
 # Description
-WAX real time feed api application has the purpose of provide real time events related to case openings that happens in the WAX blockchain.
+WAX real time feed api application has the purpose of provide real time events related to case openings that happen on the WAX Blockchain.
 
 ## How to use it?
 
