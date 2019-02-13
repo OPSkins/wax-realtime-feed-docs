@@ -1,4 +1,4 @@
-WAX Express Trade realtime feed api
+WAX Realtime Feed API
 ============================================
 
 # Description
